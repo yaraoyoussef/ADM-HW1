@@ -12,3 +12,5 @@ This notebook contains the python code relative to each and every challenge requ
 ## README.md file
 Contains the description of the repository
 
+## License
+MIT License used for this project
